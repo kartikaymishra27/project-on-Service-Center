@@ -89,7 +89,8 @@ All entered data (customers, engineers, products, calls, and feedback) is **secu
 
 ### 🔐 Login Page
 
-![Login Page](screenshots/login_page.png)
+![Login Page](screenshots/lo![Uploading login_page.png.PNG…]()
+gin_page.png)
 
 ### 🏠 Dashboard
 
