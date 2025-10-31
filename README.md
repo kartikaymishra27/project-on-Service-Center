@@ -61,7 +61,7 @@ All entered data (customers, engineers, products, calls, and feedback) is **secu
 
 ---
 
-## 🖼️ Screenshot Guide
+## 🖼️ Screenshots Guide
 
 | Screenshot Name                   | Description                            |
 | --------------------------------- | -------------------------------------- |
