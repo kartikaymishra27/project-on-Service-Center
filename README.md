@@ -1,5 +1,3 @@
-# 🧠 Smart Service Center Management System
-
 ### 💻 Overview
 
 **Smart Service Center Management System** is a GUI-based Python application designed to streamline the daily operations of a service center.
@@ -63,7 +61,7 @@ All entered data (customers, engineers, products, calls, and feedback) is **secu
 
 ## 🖼️ Screenshots Guide
 
-| Screenshots Name                   | Description                            |
+| Screenshot Name                   | Description                            |
 | --------------------------------- | -------------------------------------- |
 | `login_page.png`                  | Login interface for admin/staff        |
 | `dashboard_main.png`              | Main dashboard with all module options |
@@ -84,6 +82,58 @@ All entered data (customers, engineers, products, calls, and feedback) is **secu
 | `customer_email_confirmation.png` | Customer registration email            |
 | `engineer_email_notification.png` | Engineer notification email            |
 | `feedback_email_confirmation.png` | Feedback acknowledgment email          |
+
+---
+
+## 🖼️ Screenshot Previews
+
+### 🔐 Login Page
+
+![Login Page](screenshots/login_page.png)
+
+### 🏠 Dashboard
+
+![Dashboard](screenshots/dashboard_main.png)
+
+### 👥 Add Customer
+
+![Add Customer](screenshots/insert_customer_form.png)
+
+### 📋 Customer Details
+
+![Customer Details](screenshots/customer_details_table.png)
+
+### 🧑‍🔧 Engineer Form
+
+![Engineer Form](screenshots/engineer_form.png)
+
+### 🧑‍🔧 Engineer Table
+
+![Engineer Table](screenshots/engineer_details_table.png)
+
+### 📦 Product Management
+
+![Product Form](screenshots/product_form.png)
+
+### ☎️ Call Register
+
+![Call Register](screenshots/callregister_form.png)
+
+### 🧾 Call Close
+
+![Call Close](screenshots/callclose_form.png)
+
+### ⭐ Feedback Form
+
+![Feedback Form](screenshots/feedback_form.png)
+
+### 📧 OTP Verification
+
+![OTP Verification](screenshots/otp_verification.png)
+
+### 📬 Email Confirmation
+
+![Email Confirmation](screenshots/customer_email_confirmation.png)
 
 ---
 
