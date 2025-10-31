@@ -1,5 +1,3 @@
----
-
 # 🧠 Smart Service Center Management System
 
 ### 💻 Overview
@@ -156,6 +154,4 @@ python login.py
 **Kartikay Mishra**
 📧 [kartikaymishra7417@gmail.com](mailto:kartikaymishra7417@gmail.com)
 📍 Agra, India
-
----
 
