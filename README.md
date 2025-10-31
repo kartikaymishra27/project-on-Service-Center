@@ -63,7 +63,7 @@ All entered data (customers, engineers, products, calls, and feedback) is **secu
 
 ## 🖼️ Screenshots Guide
 
-| Screenshot Name                   | Description                            |
+| Screenshots Name                   | Description                            |
 | --------------------------------- | -------------------------------------- |
 | `login_page.png`                  | Login interface for admin/staff        |
 | `dashboard_main.png`              | Main dashboard with all module options |
