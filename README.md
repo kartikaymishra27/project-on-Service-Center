@@ -87,55 +87,43 @@ All entered data (customers, engineers, products, calls, and feedback) is **secu
 
 ## 🖼️ Screenshot Previews
 
-### 🔐 Login Page
+🔐 Login Page
 
-![Login Page](screenshots/lo![Uploading login_page.png.PNG…]()
-gin_page.png)
+🏠 Dashboard
 
-### 🏠 Dashboard
+👥 Add Customer
 
-![Dashboard](screenshots/dashboard_main.png)
+📋 Customer Details
 
-### 👥 Add Customer
+🧑‍🔧 Engineer Form
 
-![Add Customer](screenshots/insert_customer_form.png)
+🧑‍🔧 Engineer Table
 
-### 📋 Customer Details
+📦 Product Form
 
-![Customer Details](screenshots/customer_details_table.png)
+📦 Product Details
 
-### 🧑‍🔧 Engineer Form
+☎️ Call Register
 
-![Engineer Form](screenshots/engineer_form.png)
+☎️ Call Register Table
 
-### 🧑‍🔧 Engineer Table
+🧾 Call Close Form
 
-![Engineer Table](screenshots/engineer_details_table.png)
+🧾 Call Close Table
 
-### 📦 Product Management
+⭐ Feedback Form
 
-![Product Form](screenshots/product_form.png)
+📊 Feedback Table
 
-### ☎️ Call Register
+📧 OTP Verification
 
-![Call Register](screenshots/callregister_form.png)
+📬 Email Verification Mail
 
-### 🧾 Call Close
+📬 Customer Confirmation Mail
 
-![Call Close](screenshots/callclose_form.png)
+🧑‍🔧 Engineer Notification Mail
 
-### ⭐ Feedback Form
-
-![Feedback Form](screenshots/feedback_form.png)
-
-### 📧 OTP Verification
-
-![OTP Verification](screenshots/otp_verification.png)
-
-### 📬 Email Confirmation
-
-![Email Confirmation](screenshots/customer_email_confirmation.png)
-
+💬 Feedback Confirmation Mail
 ---
 
 ## 🧩 Technologies Used
